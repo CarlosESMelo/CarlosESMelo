@@ -1,6 +1,6 @@
 Hello there! Eu sou o Cadu Melo!
 
-Estou iniciando na programação e atualmente estudando HTML, CSS, JavaScrypt! E... um pouco de Python.
+Estou iniciando na programação e atualmente estudando HTML, CSS, JavaScript! E... um pouco de Python.
 
 Atualmente estudo Letras-Inglês no período noturno e gostaria de um estágio no setor de tecnologia como programador ou suporte!
 
